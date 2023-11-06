@@ -10,7 +10,7 @@
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	
-		 
+		 hello from lab number 9
         <h2>TIME FOR A COLD BEER</h2>
 	</body> 
 </html>
